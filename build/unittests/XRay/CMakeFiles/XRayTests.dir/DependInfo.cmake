@@ -1,0 +1,42 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRBlockIndexerTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRBlockIndexerTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRBlockIndexerTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRBlockVerifierTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRBlockVerifierTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRBlockVerifierTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRProducerConsumerTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRProducerConsumerTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRProducerConsumerTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRRecordPrinterTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRRecordPrinterTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRRecordPrinterTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRRecordsTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRRecordsTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRRecordsTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/FDRTraceWriterTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRTraceWriterTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/FDRTraceWriterTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/GraphTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/GraphTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/GraphTest.cpp.o.d"
+  "/Users/lijun/llvm/OLLVM-9.0.1/unittests/XRay/ProfileTest.cpp" "unittests/XRay/CMakeFiles/XRayTests.dir/ProfileTest.cpp.o" "gcc" "unittests/XRay/CMakeFiles/XRayTests.dir/ProfileTest.cpp.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Support/CMakeFiles/LLVMSupport.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/XRay/CMakeFiles/LLVMXRay.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/utils/unittest/UnitTestMain/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/utils/unittest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Testing/Support/CMakeFiles/LLVMTestingSupport.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Object/CMakeFiles/LLVMObject.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Bitcode/Reader/CMakeFiles/LLVMBitReader.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Bitstream/Reader/CMakeFiles/LLVMBitstreamReader.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/IR/CMakeFiles/LLVMCore.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Remarks/CMakeFiles/LLVMRemarks.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/MC/MCParser/CMakeFiles/LLVMMCParser.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/MC/CMakeFiles/LLVMMC.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/BinaryFormat/CMakeFiles/LLVMBinaryFormat.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/DebugInfo/CodeView/CMakeFiles/LLVMDebugInfoCodeView.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/DebugInfo/MSF/CMakeFiles/LLVMDebugInfoMSF.dir/DependInfo.cmake"
+  "/Users/lijun/llvm/OLLVM-9.0.1/build/lib/Demangle/CMakeFiles/LLVMDemangle.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
